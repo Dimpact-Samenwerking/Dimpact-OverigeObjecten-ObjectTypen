@@ -10,7 +10,7 @@ description:
     localisedName: ''
     longDescription: ''
     screenshots: []
-    shortDescription: ''
+    shortDescription: 'Een publicatie repository voor Object Typen'
     videos: []
 developmentStatus: development
 landingURL: ''
@@ -27,7 +27,7 @@ maintenance:
   contacts: []
   contractors: []
   type: none
-name: Dimpact-OverigeObjecten-ObjectTypen
+name: Dimpact OverigeObjecten/ObjectTypen
 nl:
   vng:
     commonground: []
